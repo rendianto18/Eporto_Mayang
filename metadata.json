@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CT Journey Portfolio Maker",
+  "description": "A professional tool for creating minimalist infographics that showcase computational thinking milestones, learning paths, and academic progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
